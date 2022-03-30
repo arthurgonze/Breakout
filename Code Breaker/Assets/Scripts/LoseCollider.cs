@@ -8,6 +8,7 @@ public class LoseCollider : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         string cena = "Game Over";
+        Cursor.visible = true;
         SceneManager.LoadScene(cena);
     }
 }
