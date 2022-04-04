@@ -1,5 +1,5 @@
 # Code Breaker
-[Link to play the game](https://play.unity.com/mg/other/builds-yp-5)
+[Link to play the game](https://play.unity.com/mg/other/builds-yp-5) ![Badge](https://img.shields.io/badge/status-Offline-red)
 
 
 A prototype of a breakout-style game with 5 stages. Created using Unity 2018.2 and updated to Unity 2020.3. The game will ask you to connect to your web3 wallet and use the Binance Testnet. The connection is required so you can publish your score to a top10 leaderboard. There is 4 kind of blocks that only vary on the number of ball hits to destroy them:
