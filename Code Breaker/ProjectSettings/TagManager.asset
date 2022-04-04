@@ -7,6 +7,10 @@ TagManager:
   - Breakable
   - Unbreakable
   - teste
+  - ScoreText
+  - Life_0
+  - Life_1
+  - Life_2
   layers:
   - Default
   - TransparentFX
